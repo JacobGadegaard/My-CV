@@ -10,4 +10,4 @@ This project was created using HTML, CSS, and optionally JavaScript to showcase 
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/yourusername/My-CV.git`
-2. Open the `index.html` file in your browser or run a local server.
+2. Open the `index.html` file in your browser or run a local server..
