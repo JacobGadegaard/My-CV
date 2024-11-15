@@ -3,7 +3,7 @@
 Welcome to my personal CV website! This website showcases my professional experience, skills, and projects.
 
 ## How to View the Site
-Visit [https://yourusername.github.io/My-CV/](https://jacobgadegaard.github.io/My-CV/) to view my live CV.
+Visit (https://jacobgadegaard.github.io/My-CV/) to view my live CV.
 
 ## About
 This project was created using HTML, CSS, and optionally JavaScript to showcase my resume interactively.
